@@ -1,7 +1,7 @@
 # SimpleProcessing-Client
 
 
-This project was created as a part of greater project and to learn by practice some technologies (Servlets, HTTP).
+This project was created as a part of greater project and to learn some technologies (Servlets, HTTP) by practice.
 
 It let me:
 
